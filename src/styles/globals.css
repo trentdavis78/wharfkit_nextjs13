@@ -1,0 +1,220 @@
+:root {
+
+  --teal-color-1: hsl(192, 60.0%, 7.2%);
+  --teal-color-2: hsl(192, 71.4%, 8.2%);
+  --teal-color-3: hsl(192, 75.9%, 10.8%);
+  --teal-color-4: hsl(192, 79.3%, 12.8%);
+  --teal-color-5: hsl(192, 82.5%, 14.6%);
+  --teal-color-6: hsl(192, 86.6%, 16.9%);
+  --teal-color-7: hsl(192, 92.6%, 20.1%);
+  --teal-color-8: hsl(192, 100%, 24.5%);
+  --teal-color-9: hsl(190, 95.0%, 39.0%);
+  --teal-color-10: hsl(188, 100%, 40.0%);
+  --teal-color-11: hsl(186, 100%, 42.2%);
+  --teal-color-12: hsl(185, 73.0%, 93.2%);
+
+  --purple-color-1: hsl(250, 20.0%, 10.2%);
+  --purple-color-2: hsl(255, 30.3%, 12.9%);
+  --purple-color-3: hsl(253, 37.0%, 18.4%);
+  --purple-color-4: hsl(252, 40.1%, 22.5%);
+  --purple-color-5: hsl(252, 42.2%, 26.2%);
+  --purple-color-6: hsl(251, 44.3%, 31.1%);
+  --purple-color-7: hsl(250, 46.8%, 38.9%);
+  --purple-color-8: hsl(250, 51.8%, 51.2%);
+  --purple-color-9: hsl(252, 56.0%, 57.5%);
+  --purple-color-10: hsl(251, 63.2%, 63.2%);
+  --purple-color-11: hsl(250, 95.0%, 76.8%);
+  --purple-color-12: hsl(252, 87.0%, 96.4%);
+
+  --green-color-1: hsl(146, 30.0%, 7.4%);
+  --green-color-2: hsl(155, 44.2%, 8.4%);
+  --green-color-3: hsl(155, 46.7%, 10.9%);
+  --green-color-4: hsl(154, 48.4%, 12.9%);
+  --green-color-5: hsl(154, 49.7%, 14.9%);
+  --green-color-6: hsl(154, 50.9%, 17.6%);
+  --green-color-7: hsl(153, 51.8%, 21.8%);
+  --green-color-8: hsl(151, 51.7%, 28.4%);
+  --green-color-9: hsl(151, 55.0%, 41.5%);
+  --green-color-10: hsl(151, 49.3%, 46.5%);
+  --green-color-11: hsl(151, 50.0%, 53.2%);
+  --green-color-12: hsl(137, 72.0%, 94.0%);
+
+  --crimson-color-1: hsl(335, 20.0%, 9.6%);
+  --crimson-color-2: hsl(335, 32.2%, 11.6%);
+  --crimson-color-3: hsl(335, 42.5%, 16.5%);
+  --crimson-color-4: hsl(335, 47.2%, 19.3%);
+  --crimson-color-5: hsl(335, 50.9%, 21.8%);
+  --crimson-color-6: hsl(335, 55.7%, 25.3%);
+  --crimson-color-7: hsl(336, 62.9%, 30.8%);
+  --crimson-color-8: hsl(336, 74.9%, 39.0%);
+  --crimson-color-9: hsl(336, 80.0%, 57.8%);
+  --crimson-color-10: hsl(339, 84.1%, 62.6%);
+  --crimson-color-11: hsl(341, 90.0%, 67.3%);
+  --crimson-color-12: hsl(332, 87.0%, 96.0%);
+
+  --grey-color-1: hsl(210, 92.6%, 6.5%);
+  --grey-color-2: hsl(195, 7.1%, 11.0%);
+  --grey-color-3: hsl(197, 6.8%, 13.6%);
+  --grey-color-4: hsl(198, 6.6%, 15.8%);
+  --grey-color-5: hsl(199, 6.4%, 17.9%);
+  --grey-color-6: hsl(201, 6.2%, 20.5%);
+  --grey-color-7: hsl(203, 6.0%, 24.3%);
+  --grey-color-8: hsl(207, 5.6%, 31.6%);
+  --grey-color-9: hsl(206, 6.0%, 43.9%);
+  --grey-color-10: hsl(206, 5.2%, 49.5%);
+  --grey-color-11: hsl(206, 6.0%, 63.0%);
+  --grey-color-12: hsl(210, 6.0%, 93.0%);
+
+
+  --orange-color-1: hsl(30, 70.0%, 7.2%);
+  --orange-color-2: hsl(28, 100%, 8.4%);
+  --orange-color-3: hsl(26, 91.1%, 11.6%);
+  --orange-color-4: hsl(25, 88.3%, 14.1%);
+  --orange-color-5: hsl(24, 87.6%, 16.6%);
+  --orange-color-6: hwb(24 2% 63%);
+  --orange-color-7: hsl(24, 92.4%, 24.0%);
+  --orange-color-8: hsl(25, 100%, 29.0%);
+  --orange-color-9: hsl(24, 94.0%, 50.0%);
+  --orange-color-10: hsl(24, 100%, 58.5%);
+  --orange-color-11: hsl(24, 100%, 62.2%);
+  --orange-color-12: hsl(24, 97.0%, 93.2%);
+ 
+  --blue-color-1: hsl(212, 36%, 9%);
+  --blue-color-2: hsl(216, 50%, 12%);
+  --blue-color-3: hsl(214, 59%, 15%);
+  --blue-color-4: hsl(214, 65%, 18%);
+  --blue-color-5: hsl(213, 71%, 20%);
+  --blue-color-6: hsl(212, 78%, 23%);
+  --blue-color-7: hsl(211, 86%, 27%);
+  --blue-color-8: hsl(211, 90%, 34%);
+  --blue-color-9: hsl(206, 100%, 50%);
+  --blue-color-10: hsl(209, 100%, 61%);
+  --blue-color-11: hsl(210, 100%, 66%);
+  --blue-color-12: hsl(206, 100%, 96%);
+
+  --red-color-1: hsl(353, 23.0%, 9.8%);
+  --red-color-2: hsl(357, 34.4%, 12.0%);
+  --red-color-3: hsl(356, 43.4%, 16.4%);
+  --red-color-4: hsl(356, 47.6%, 19.2%);
+  --red-color-5: hsl(356, 51.1%, 21.9%);
+  --red-color-6: hsl(356, 55.2%, 25.9%);
+  --red-color-7: hsl(357, 60.2%, 31.8%);
+  --red-color-8: hsl(358, 65.0%, 40.4%);
+  --red-color-9: hsl(358, 75.0%, 59.0%);
+  --red-color-10: hsl(358, 85.3%, 64.0%);
+  --red-color-11: hsl(358, 100%, 69.5%);
+  --red-color-12: hsl(351, 89.0%, 96.0%);
+ 
+  --teal-color-1: hsl(168, 43%, 7%);
+  --teal-color-2: hsl(169, 78%, 7%);
+  --teal-color-3: hsl(170, 74%, 9%);
+  --teal-color-4: hsl(171, 75%, 11%);
+  --teal-color-5: hsl(171, 75%, 13%);
+  --teal-color-6: hsl(172, 77%, 15%);
+  --teal-color-7: hsl(172, 77%, 19%);
+  --teal-color-8: hsl(173, 80%, 24%);
+  --teal-color-9: hsl(173, 80%, 36%);
+  --teal-color-10: hsl(174, 84%, 38%);
+  --teal-color-11: hsl(174, 90%, 41%);
+  --teal-color-12: hsl(166, 71%, 93%);
+ 
+  --yellow-color-1: hsl(45, 100%, 5.5%);
+  --yellow-color-2: hsl(46, 100%, 6.7%);
+  --yellow-color-3: hsl(45, 100%, 8.7%);
+  --yellow-color-4: hsl(45, 100%, 10.4%);
+  --yellow-color-5: hsl(47, 100%, 12.1%);
+  --yellow-color-6: hsl(49, 100%, 14.3%);
+  --yellow-color-7: hsl(49, 90.3%, 18.4%);
+  --yellow-color-8: hsl(50, 100%, 22.0%);
+  --yellow-color-9: hsl(53, 92.0%, 50.0%);
+  --yellow-color-10: hsl(54, 100%, 68.0%);
+  --yellow-color-11: hsl(48, 100%, 47.0%);
+  --yellow-color-12: hsl(53, 100%, 91.0%);
+
+  --pink-color-1: hsl(318, 25.0%, 9.6%);
+  --pink-color-2: hsl(319, 32.2%, 11.6%);
+  --pink-color-3: hsl(319, 41.0%, 16.0%);
+  --pink-color-4: hsl(320, 45.4%, 18.7%);
+  --pink-color-5: hsl(320, 49.0%, 21.1%);
+  --pink-color-6: hsl(321, 53.6%, 24.4%);
+  --pink-color-7: hsl(321, 61.1%, 29.7%);
+  --pink-color-8: hsl(322, 74.9%, 37.5%);
+  --pink-color-9: hsl(322, 65.0%, 54.5%);
+  --pink-color-10: hsl(323, 72.8%, 59.2%);
+  --pink-color-11: hsl(325, 90.0%, 66.4%);
+  --pink-color-12: hsl(322, 90.0%, 95.8%);
+
+  --black-overlay-1: hsla(0, 0%, 0%, 0.012);
+  --black-overlay-2: hsla(0, 0%, 0%, 0.027);
+  --black-overlay-3: hsla(0, 0%, 0%, 0.047);
+  --black-overlay-4: hsla(0, 0%, 0%, 0.071);
+  --black-overlay-5: hsla(0, 0%, 0%, 0.090);
+  --black-overlay-6: hsla(0, 0%, 0%, 0.114);
+  --black-overlay-7: hsla(0, 0%, 0%, 0.141);
+  --black-overlay-8: hsla(0, 0%, 0%, 0.220);
+  --black-overlay-9: hsla(0, 0%, 0%, 0.439);
+  --black-overlay-10: hsla(0, 0%, 0%, 0.478);
+  --black-overlay-11: hsla(0, 0%, 0%, 0.565);
+  --black-overlay-12: hsla(0, 0%, 0%, 0.910);
+
+  --white-overlay-1: hsla(0, 0%, 100%, 0);
+  --white-overlay-2: hsla(0, 0%, 100%, 0.013);
+  --white-overlay-3: hsla(0, 0%, 100%, 0.034);
+  --white-overlay-4: hsla(0, 0%, 100%, 0.056);
+  --white-overlay-5: hsla(0, 0%, 100%, 0.086);
+  --white-overlay-6: hsla(0, 0%, 100%, 0.124);
+  --white-overlay-7: hsla(0, 0%, 100%, 0.176);
+  --white-overlay-8: hsla(0, 0%, 100%, 0.249);
+  --white-overlay-9: hsla(0, 0%, 100%, 0.386);
+  --white-overlay-10: hsla(0, 0%, 100%, 0.446);
+  --white-overlay-11: hsla(0, 0%, 100%, 0.592);
+  --white-overlay-12: hsla(0, 0%, 100%, 0.923);
+
+  --primary-color: var(--blue-color-5);
+  --bg-color: #16171b;
+  --text-color: #fff;
+}
+
+
+
+[data-theme="light"] {
+  /* Light mode colors */
+  --bg-color: #fff;
+  --text-color: #333;
+ 
+    --blue-color-1: hsl(206, 100%, 99.2%);
+    --blue-color-2: hsl(210, 100%, 98.0%);
+    --blue-color-3: hsl(209, 100%, 96.5%);
+    --blue-color-4: hsl(210, 98.8%, 94.0%);
+    --blue-color-5: hsl(209, 95.0%, 90.1%);
+    --blue-color-6: hsl(209, 81.2%, 84.5%);
+    --blue-color-7: hsl(208, 77.5%, 76.9%);
+    --blue-color-8: hsl(206, 81.9%, 65.3%);
+    --blue-color-9: hsl(206, 100%, 50.0%);
+    --blue-color-10: hsl(208, 100%, 47.3%);
+    --blue-color-11: hsl(211, 100%, 43.2%);
+    --blue-color-12: hsl(211, 100%, 15.0%);
+  } 
+
+
+  
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  background-color: var(--bg-color);
+  color: var(--text-color)
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+ 
+ 
